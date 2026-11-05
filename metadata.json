@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master",
+  "description": "A beginner-friendly Flutter quiz application with Open Trivia DB API, local question storage, score tracking, and clean Provider architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
